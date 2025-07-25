@@ -1,0 +1,3 @@
+[submodule "query-anecdotes"]
+	path = query-anecdotes
+	url = https://github.com/Paul-Wisdom/query-anecdotes
