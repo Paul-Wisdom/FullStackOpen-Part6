@@ -1,3 +1,9 @@
 [submodule "query-anecdotes"]
 	path = query-anecdotes
 	url = https://github.com/Paul-Wisdom/query-anecdotes
+[submodule "unicafe-redux"]
+	path = unicafe-redux
+	url = https://github.com/Paul-Wisdom/unicafe-redux
+[submodule "redux-anecdotes"]
+	path = redux-anecdotes
+	url = https://github.com/Paul-Wisdom/redux-anecdotes
